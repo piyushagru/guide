@@ -42,6 +42,10 @@ Asymmetric Encryption algorithms provide each user with a pair of keys: one publ
 
 Some Asymmetric techniques include: RSA, Diffie-Hellman, DSS(Digital Signature Standard), ElGamal.
 
+### Cryptography Application
+
+Cryptography is used in the CTF(capture the flag) competitions where hackers from all over the world participate to hack their way out to get a flag from a file. Cryptography is a major type in CTF where many different types of ciphers like Caesar, Atbash, Affine, Playfair, hashes are used. To get a taste on cryptography in CTF you can visit https://picoctf.com/ it have all sort of questions starting from begineers to advanced.
+
 ### Cryptographic Hashing
 
 Most cryptographic hash functions are designed to take a string of any length as input and produce a fixed-length hash value.
